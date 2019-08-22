@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CustomToastApplication</string>
+    <string name="text_toast_btn_value">Custom toast with image</string>
+    <string name="text_left_toast_btn_value">Toast to left</string>
+    <string name="text_right_toast_btn_value">Toast to right</string>
+    <string name="text_bottom_toast_btn_value">Toast at bottom</string>
+    <string name="text_bottom_left_toast_btn_value">Toast at bottom left</string>
+    <string name="text_bottom_right_toast_btn_value">Toast at bottom right</string>
+    <string name="text_top_toast_btn_value">Toast at top</string>
+    <string name="text_top_left_toast_btn_value">Toast at top left</string>
+    <string name="text_top_right_toast_btn_value">Toast at top right</string>
+    <string name="text_info">This is just a custom toast</string>
+    <string name="text_toast_at_top">This is just a toast on top</string>
+    <string name="text_toast_at_bottom">This is just a toast at the bottom</string>
+    <string name="text_toast_at_left">This is just a toast at left</string>
+    <string name="text_toast_at_right">This is just a toast at right</string>
+    <string name="text_toast_at_bottom_left">Bottom Left Toast</string>
+    <string name="text_toast_at_bottom_right">Bottom Right Toast</string>
+    <string name="text_toast_at_top_left">Top Left Toast</string>
+    <string name="text_toast_at_top_right">Top Right Toast</string>
+</resources>
